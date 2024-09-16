@@ -3,59 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nicolò Cavalieri - CV</title>
+    <title>Nicolò Cavalieri - Portfolio</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <div class="container">
-        <!-- Header Section -->
-        <header>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home">
+        <div class="container">
             <h1>Nicolò Cavalieri</h1>
-            <p>Location: Mantova, Italy</p>
-            <p>Email: <a href="mailto:nicolo.cavalieri23@gmail.com">nicolo.cavalieri23@gmail.com</a></p>
-            <p>Phone: +39 3471885928</p>
-        </header>
+            <p>Mechatronics Engineer | Embedded Software | Automation Enthusiast</p>
+        </div>
+    </section>
 
-        <!-- Career Objective Section -->
-        <section>
-            <h2>Career Objective</h2>
-            <p>Currently seeking a position as an R&D Software Developer Engineer in the automation field or Embedded Software Engineer, starting from the 3rd week of December 2024. Looking to apply engineering knowledge in HMI design, embedded systems, and AI-based automation.</p>
-        </section>
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am currently pursuing a Master's Degree in Mechatronics Engineering with a focus on embedded systems, automation, and robotics. I have a passion for developing efficient and intelligent systems that can drive innovation in industries.</p>
+        </div>
+    </section>
 
-        <!-- Education Section -->
-        <section>
-            <h2>Education</h2>
-            <h3>Master’s Degree in Mechatronics Engineering</h3>
-            <p>Electronics and Robotics Curriculum, Polo Scientifico Tecnologico Fabio Ferrari – Trento, Italy</p>
-            <p><strong>Expected Graduation</strong>: Dec 2024</p>
-            <h3>Bachelor’s Degree in Industrial Engineering</h3>
-            <p>Mechatronics Curriculum, Polo Scientifico Tecnologico Fabio Ferrari – Trento, Italy</p>
-            <p><strong>Graduation</strong>: July 2021</p>
-        </section>
-
-        <!-- Experience Section -->
-        <section>
-            <h2>Relevant Experience</h2>
-            <h3>Lifeguard</h3>
-            <p>Società Cooperativa Canottieri Mincio – Mantua, Italy</p>
-            <p><strong>Duration</strong>: Jun 2021 – Present</p>
-            <p>Supervised safety and operations in pools, controlled water hygiene, and conducted maintenance tasks using automated systems.</p>
-        </section>
-
-        <!-- Skills Section -->
-        <section>
+    <!-- Skills Section -->
+    <section id="skills">
+        <div class="container">
             <h2>Skills</h2>
             <ul>
                 <li>Programming: C++, Python, MATLAB</li>
                 <li>CAD & Design Tools: Fusion 360, SolidWorks, Inventor</li>
-                <li>Software & Tools: MATLAB, STM32, Arduino, MQTT protocol</li>
+                <li>Embedded Systems: STM32, Arduino, MQTT protocol</li>
             </ul>
-        </section>
+        </div>
+    </section>
 
-        <!-- Footer Section -->
-        <footer>
-            <p>Languages: Italian (Native), English (B2), French (A2)</p>
-        </footer>
-    </div>
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project-grid">
+                <div class="project">
+                    <h3>Project 1: Offshore Wind Simulation</h3>
+                    <p>Simulated offshore wind turbine performance under varying conditions.</p>
+                </div>
+                <div class="project">
+                    <h3>Project 2: 3D Printed Robotic Arm</h3>
+                    <p>Designed and developed a robotic arm using Fusion 360 and 3D printing technology.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:nicolo.cavalieri23@gmail.com">nicolo.cavalieri23@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/nicol%C3%B2-cavalieri-263774194/">Nicolò Cavalieri</a></p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Nicolò Cavalieri | All Rights Reserved</p>
+    </footer>
+	
+	<!--  Smooth Scrolling option -->	
+	<script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+	
 </body>
 </html>
