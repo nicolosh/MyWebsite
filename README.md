@@ -43,7 +43,7 @@ This is the link to your website [Website](https://nicolosh.github.io/MyWebsite)
 ***
 ## Method 2
 To create a personal website such [yourWebsite](https://tuonome.github.io), create a repo called exactly as:  
-  - **<your-username>.github.io**
+  - ```html<your-username>.github.io```
   - create an index.html o README.md file
   - enable GitHub Pages (as mentioned above)
 
