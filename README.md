@@ -19,11 +19,11 @@ My personal website (and technical life)
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Benvenuto!</title>
+  <title>Welcome!</title>
 </head>
 <body>
-  <h1>Ciao dal mio sito su GitHub Pages!</h1>
-  <p>Questo è un sito statico hostato su GitHub.</p>
+  <h1> Hello from my website on GitHub Pages!</h1>
+  <p> This is a static website hosted on GitHub.</p>
 </body>
 </html>
 ```
