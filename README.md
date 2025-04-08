@@ -3,14 +3,16 @@ My personal website (and technical life)
 
 ## Metodo 1 (Simple)
 🔹 1. Rapid approach – GitHub Pages with README or index.html
- - Step 1: Create a repository
-   Go to https://github.com; click on “New” to create a new repo
-   Give it a name (i.e. myWebsite)
-   Set if the repository needs to be public or private
-   (Optional) Add a README.md file
+ - Step 1: Create a repository  
+   Go to https://github.com;  click on “New” to create a new repo  
+   Give it a name (i.e. myWebsite)  
+   Set if the repository needs to be public or private  
+   (Optional) Add a README.md file  
 
- - Step 2: Add an index.html file
-   You can do it from your browser or via git. Esempio semplice:
+ - Step 2: Add an index.html file  
+   You can do it from your browser or via git.  
+   Example:
+   
 ```html
 <!-- index.html -->
 <!DOCTYPE html>
@@ -24,6 +26,7 @@ My personal website (and technical life)
 </body>
 </html>
 ```
+
 ✅ Step 3: Abilita GitHub Pages
 Vai su Settings del repository
 
