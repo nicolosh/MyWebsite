@@ -28,14 +28,17 @@ My personal website (and technical life)
 </html>
 ```
 
-    - **Step 3**: Enable GitHub Pages:  
-    _ Go to Settings label into the repository  
-    _ Scroll down until **Pages** label  
-    _ Under “Build and deployment”, select *Source: Deploy from a branch*  
-    _ Branch: main and folder: / (root)  
-    _ Save  
+   - **Step 3**: Enable GitHub Pages:  
+       - Go to Settings label into the repository  
+       - Scroll down until **Pages** label  
+       - Under “Build and deployment”, select *Source: Deploy from a branch*  
+       - Branch: main and folder: / (root)  
+       - Save  
 
-    ### After fews seconds, your site will be published on:  
+### After fews seconds, your site will be published on:  
     This is the link to your website [Website](https://nicolosh.github.io/MyWebsite) where *myWebsite* represents the repository's name and *nicolosh* the username 
 
+***
+
+***
 
