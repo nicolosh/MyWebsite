@@ -5,10 +5,10 @@ My personal website (and technical life)
 1. Rapid approach – GitHub Pages with README or index.html  
    - **Step 1**: Create a repository  as follows:  
        - Go to https://github.com  
-   _ click on **New** to create a new repo    
-   _ Give it a name (i.e. myWebsite)  
-   _ Set if the repository needs to be public or private  
-   _ (Optional) Add a README.md file  
+       - Click on **New** to create a new repo    
+       - Give it a name (i.e. myWebsite)  
+       - Set if the repository needs to be public or private  
+       - (Optional) Add a README.md file  
 
  - **Step 2**: Add an index.html file:  
    _ You can do it from your browser or via git.  
