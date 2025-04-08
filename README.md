@@ -10,9 +10,9 @@ My personal website (and technical life)
        - Set if the repository needs to be public or private  
        - (Optional) Add a README.md file  
 
- - **Step 2**: Add an index.html file:  
-   _ You can do it from your browser or via git.  
-   _ Example:  
+   - **Step 2**: Add an index.html file:  
+       - You can do it from your browser or via git.  
+       - Example:  
    
 ```html
 <!-- index.html -->
@@ -28,7 +28,7 @@ My personal website (and technical life)
 </html>
 ```
 
- - **Step 3**: Enable GitHub Pages:  
+    - **Step 3**: Enable GitHub Pages:  
     _ Go to Settings label into the repository  
     _ Scroll down until **Pages** label  
     _ Under “Build and deployment”, select *Source: Deploy from a branch*  
