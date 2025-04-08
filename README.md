@@ -14,7 +14,7 @@ My personal website (and technical life)
        - You can do it from your browser or via git.  
        - Example:  
    
-```html
+      ```html
 <!-- index.html -->
 <!DOCTYPE html>
 <html>
