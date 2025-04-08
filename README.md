@@ -3,8 +3,8 @@ My personal website (and technical life)
 
 ## Method 1 (Simple)
 1. Rapid approach – GitHub Pages with README or index.html  
- - **Step 1**: Create a repository  as follows:  
-   _ Go to https://github.com  
+   - **Step 1**: Create a repository  as follows:  
+       _ Go to https://github.com  
    _ click on **New** to create a new repo    
    _ Give it a name (i.e. myWebsite)  
    _ Set if the repository needs to be public or private  
