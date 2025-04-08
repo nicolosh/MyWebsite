@@ -1,15 +1,15 @@
 # MyWebsite
 My personal website (and technical life)
 
-## Metodo 1 (Simple)
+## Method 1 (Simple)
 🔹 1. Rapid approach – GitHub Pages with README or index.html
- - Step 1: Create a repository  
+ - **Step 1**: Create a repository  
    Go to https://github.com;  click on “New” to create a new repo  
    Give it a name (i.e. myWebsite)  
    Set if the repository needs to be public or private  
    (Optional) Add a README.md file  
 
- - Step 2: Add an index.html file  
+ - **Step 2**: Add an index.html file  
    You can do it from your browser or via git.  
    Example:
    
@@ -27,22 +27,14 @@ My personal website (and technical life)
 </html>
 ```
 
-✅ Step 3: Abilita GitHub Pages
-Vai su Settings del repository
+ - **Step 3**: Enable GitHub Pages  
+    Go to Settings label into the repository  
+    Scroll down until **Pages** label  
+    Under “Build and deployment”, select *Source: Deploy from a branch*  
+    Branch: main and folder: / (root)  
+    Save  
 
-Scorri in basso fino a Pages
+    ## After fews seconds, your site will be published on:  
+    https://<your-username>.github.io/<name-repo>/
 
-Sotto “Build and deployment”, seleziona:
-
-Source: Deploy from a branch
-
-Branch: main e cartella: / (root)
-
-Salva
-
-Dopo pochi secondi, troverai il tuo sito pubblicato su:
-
-👉 https://<tuo-username>.github.io/<nome-repo>/
-
-(es: https://mariorossi.github.io/my-website/)
 
