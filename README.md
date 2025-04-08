@@ -4,15 +4,15 @@ My personal website (and technical life)
 ## Method 1 (Simple)
 🔹 1. Rapid approach – GitHub Pages with README or index.html  
  - **Step 1**: Create a repository  as follows:  
-   Go to https://github.com  
-   click on **New** to create a new repo    
-   Give it a name (i.e. myWebsite)  
-   Set if the repository needs to be public or private  
-   (Optional) Add a README.md file  
+   _ Go to https://github.com  
+   _ click on **New** to create a new repo    
+   _ Give it a name (i.e. myWebsite)  
+   _ Set if the repository needs to be public or private  
+   _ (Optional) Add a README.md file  
 
  - **Step 2**: Add an index.html file:  
-   You can do it from your browser or via git.  
-   Example:  
+   _ You can do it from your browser or via git.  
+   _ Example:  
    
 ```html
 <!-- index.html -->
@@ -29,11 +29,11 @@ My personal website (and technical life)
 ```
 
  - **Step 3**: Enable GitHub Pages:  
-    Go to Settings label into the repository  
-    Scroll down until **Pages** label  
-    Under “Build and deployment”, select *Source: Deploy from a branch*  
-    Branch: main and folder: / (root)  
-    Save  
+    _ Go to Settings label into the repository  
+    _ Scroll down until **Pages** label  
+    _ Under “Build and deployment”, select *Source: Deploy from a branch*  
+    _ Branch: main and folder: / (root)  
+    _ Save  
 
     ### After fews seconds, your site will be published on:  
     This is the link to your website [Website](https://nicolosh.github.io/MyWebsite) where *myWebsite* represents the repository's name and *nicolosh* the username 
