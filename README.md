@@ -34,7 +34,7 @@ My personal website (and technical life)
     Branch: main and folder: / (root)  
     Save  
 
-    ## After fews seconds, your site will be published on:  
+    ### After fews seconds, your site will be published on:  
     https://<your-username>.github.io/<name-repo>/
 
 
