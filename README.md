@@ -2,7 +2,7 @@
 My personal website (and technical life)
 
 ## Method 1 (Simple)
-🔹 1. Rapid approach – GitHub Pages with README or index.html  
+1. Rapid approach – GitHub Pages with README or index.html  
  - **Step 1**: Create a repository  as follows:  
    _ Go to https://github.com  
    _ click on **New** to create a new repo    
