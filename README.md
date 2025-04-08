@@ -35,6 +35,6 @@ My personal website (and technical life)
     Save  
 
     ### After fews seconds, your site will be published on:  
-    [Website](https://nicolosh.github.io/myWebsite) where *myWebsite* represents the repository's name and *nicolosh* the username 
+    This is the link to your website [Website](https://nicolosh.github.io/MyWebsite) where *myWebsite* represents the repository's name and *nicolosh* the username 
 
 
