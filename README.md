@@ -1,2 +1,2 @@
 # MyWebsite
-My personal website on internet
+My personal website (and technical life)
