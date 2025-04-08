@@ -41,4 +41,5 @@ This is the link to your website [Website](https://nicolosh.github.io/MyWebsite)
 ***
 
 ***
+## Method 2
 
