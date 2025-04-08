@@ -41,7 +41,7 @@ This is the link to your website [Website](https://nicolosh.github.io/MyWebsite)
 ***
 
 ***
-## Method 2
+## Method 2 (see [nicoloshWebsite](https://nicolosh.github.io))
 To create a personal website such [yourWebsite](https://tuonome.github.io), create a repo called exactly as:  
   - ```html
     <your-username>.github.io
